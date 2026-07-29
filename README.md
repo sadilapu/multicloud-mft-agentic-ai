@@ -182,6 +182,12 @@ equivalents are welcome — see [Contributing](#contributing).
 Issues and pull requests are welcome. Please include tests for any new
 behavior; `mvn test` must pass in CI before a PR can be merged.
 
+## Community
+
+Using this project or have questions? Feel free to start a
+[Discussion](https://github.com/sadilapu/multicloud-mft-agentic-ai/discussions)
+or open an issue — I'd love to hear about it.
+
 ## License
 
 Licensed under the [Apache License, Version 2.0](LICENSE). See [NOTICE](NOTICE).
