@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Multi-Cloud Managed File Transfer System with Agentic AI/ML Orchestration"
+authors:
+  - family-names: "Adilapuram"
+    given-names: "Srinivas"
+version: 1.0.0
+date-released: 2026-07-29
+url: "https://github.com/sadilapu/multicloud-mft-agentic-ai"
+repository-code: "https://github.com/sadilapu/multicloud-mft-agentic-ai"
+license: Apache-2.0
+keywords:
+  - managed-file-transfer
+  - multi-cloud
+  - agentic-ai
+  - cyber-threat-defense
+  - anomaly-detection
